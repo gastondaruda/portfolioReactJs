@@ -1,0 +1,21 @@
+.index{
+    height: 85vh;
+}
+.bg{
+    width: 30rem;
+}
+.bg-profile{
+    width: 25rem;
+    border-radius: 10px;
+}
+.index-title{
+    font-size: 3.25rem;
+    margin-top: 2rem;
+}
+.container-detail{
+    margin: 0 10rem;
+}
+.profile-detail{
+    padding: 0 6rem;
+    justify-content: space-evenly!important;
+}
