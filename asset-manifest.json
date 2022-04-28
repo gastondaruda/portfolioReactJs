@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolioReactJs/static/css/main.c451e2d3.css",
+    "main.js": "/portfolioReactJs/static/js/main.6162f4f2.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolioReactJs/static/js/787.1ed0c42c.chunk.js",
+    "static/media/react.png": "/portfolioReactJs/static/media/react.9071fe013e67b1f48646.png",
+    "static/media/desarrolloWeb.png": "/portfolioReactJs/static/media/desarrolloWeb.eaeb7320c62e2b735a60.png",
+    "static/media/recetas.png": "/portfolioReactJs/static/media/recetas.be6dfff563017fcc0ccc.png",
+    "static/media/onesearch.png": "/portfolioReactJs/static/media/onesearch.d36a579290986aa96821.png",
+    "static/media/javascript.png": "/portfolioReactJs/static/media/javascript.aa87de011db092598d21.png",
+    "static/media/dw.png": "/portfolioReactJs/static/media/dw.5773ca9c2c0900b55c35.png",
+    "static/media/js.png": "/portfolioReactJs/static/media/js.865ff02180abe4de047a.png",
+    "static/media/rj.png": "/portfolioReactJs/static/media/rj.b59eb20ea7fc906697e4.png",
+    "static/media/gasty2.jpg": "/portfolioReactJs/static/media/gasty2.52eced62285c557ffd74.jpg",
+    "static/media/bitcoin.png": "/portfolioReactJs/static/media/bitcoin.aabacbe05ce27f053d33.png",
+    "static/media/bg3.png": "/portfolioReactJs/static/media/bg3.5ba637945abf1f6eefb9.png",
+    "index.html": "/portfolioReactJs/index.html",
+    "main.c451e2d3.css.map": "/portfolioReactJs/static/css/main.c451e2d3.css.map",
+    "main.6162f4f2.js.map": "/portfolioReactJs/static/js/main.6162f4f2.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolioReactJs/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c451e2d3.css",
+    "static/js/main.6162f4f2.js"
+  ]
+}
