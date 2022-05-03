@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolioReactJs/static/css/main.a90a1274.css",
-    "main.js": "/portfolioReactJs/static/js/main.e1e9a454.js",
+    "main.css": "/portfolioReactJs/static/css/main.2c176c33.css",
+    "main.js": "/portfolioReactJs/static/js/main.a9f31baf.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolioReactJs/static/js/787.1ed0c42c.chunk.js",
-    "static/media/react.png": "/portfolioReactJs/static/media/react.9071fe013e67b1f48646.png",
+    "static/media/react.png": "/portfolioReactJs/static/media/react.635f0cd5136fefe1189e.png",
     "static/media/desarrolloWeb.png": "/portfolioReactJs/static/media/desarrolloWeb.eaeb7320c62e2b735a60.png",
     "static/media/recetas.png": "/portfolioReactJs/static/media/recetas.be6dfff563017fcc0ccc.png",
     "static/media/onesearch.png": "/portfolioReactJs/static/media/onesearch.d36a579290986aa96821.png",
@@ -16,12 +16,12 @@
     "static/media/bitcoin.png": "/portfolioReactJs/static/media/bitcoin.aabacbe05ce27f053d33.png",
     "static/media/bg3.png": "/portfolioReactJs/static/media/bg3.5ba637945abf1f6eefb9.png",
     "index.html": "/portfolioReactJs/index.html",
-    "main.a90a1274.css.map": "/portfolioReactJs/static/css/main.a90a1274.css.map",
-    "main.e1e9a454.js.map": "/portfolioReactJs/static/js/main.e1e9a454.js.map",
+    "main.2c176c33.css.map": "/portfolioReactJs/static/css/main.2c176c33.css.map",
+    "main.a9f31baf.js.map": "/portfolioReactJs/static/js/main.a9f31baf.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolioReactJs/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a90a1274.css",
-    "static/js/main.e1e9a454.js"
+    "static/css/main.2c176c33.css",
+    "static/js/main.a9f31baf.js"
   ]
 }
