@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolioReactJs/static/css/main.2c176c33.css",
-    "main.js": "/portfolioReactJs/static/js/main.a9f31baf.js",
+    "main.css": "/portfolioReactJs/static/css/main.45364526.css",
+    "main.js": "/portfolioReactJs/static/js/main.a402f3a2.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolioReactJs/static/js/787.1ed0c42c.chunk.js",
     "static/media/react.png": "/portfolioReactJs/static/media/react.635f0cd5136fefe1189e.png",
     "static/media/desarrolloWeb.png": "/portfolioReactJs/static/media/desarrolloWeb.eaeb7320c62e2b735a60.png",
@@ -11,17 +11,17 @@
     "static/media/dw.png": "/portfolioReactJs/static/media/dw.5773ca9c2c0900b55c35.png",
     "static/media/js.png": "/portfolioReactJs/static/media/js.865ff02180abe4de047a.png",
     "static/media/ReactCer.png": "/portfolioReactJs/static/media/ReactCer.b59eb20ea7fc906697e4.png",
-    "static/media/gasty2.jpg": "/portfolioReactJs/static/media/gasty2.52eced62285c557ffd74.jpg",
     "static/media/progress.jpg": "/portfolioReactJs/static/media/progress.f70ff499fcdba605eeda.jpg",
+    "static/media/profile.jpeg": "/portfolioReactJs/static/media/profile.c8d2f35af246b0453f8e.jpeg",
     "static/media/bitcoin.png": "/portfolioReactJs/static/media/bitcoin.aabacbe05ce27f053d33.png",
     "static/media/bg3.png": "/portfolioReactJs/static/media/bg3.5ba637945abf1f6eefb9.png",
     "index.html": "/portfolioReactJs/index.html",
-    "main.2c176c33.css.map": "/portfolioReactJs/static/css/main.2c176c33.css.map",
-    "main.a9f31baf.js.map": "/portfolioReactJs/static/js/main.a9f31baf.js.map",
+    "main.45364526.css.map": "/portfolioReactJs/static/css/main.45364526.css.map",
+    "main.a402f3a2.js.map": "/portfolioReactJs/static/js/main.a402f3a2.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolioReactJs/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c176c33.css",
-    "static/js/main.a9f31baf.js"
+    "static/css/main.45364526.css",
+    "static/js/main.a402f3a2.js"
   ]
 }
